@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/Taco",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "gavin",
+      "email": "gavinmsherman@gmail.com"
+    },
+    {
+      "name": "angel"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
